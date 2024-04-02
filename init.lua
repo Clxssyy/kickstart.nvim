@@ -552,6 +552,8 @@ require('lazy').setup({
         tsserver = {},
         tailwindcss = {},
         pylsp = {},
+        dockerls = {},
+        docker_compose_language_service = {},
 
         lua_ls = {
           -- cmd = {...},
